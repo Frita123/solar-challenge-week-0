@@ -1,3 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
 # Ignore Python virtual environment
 # Ignore virtual environment
 .venv/
