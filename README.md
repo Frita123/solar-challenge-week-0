@@ -5,7 +5,7 @@
 
 To reproduce the Python environment used in this project:
 
-1. **Clone the repository**
+**Clone the repository**
    
    git clone https://github.com/Frita123/solar-challenge-week-0.git
    cd solar-challenge-week-0
