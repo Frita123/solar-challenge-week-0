@@ -1,3 +1,33 @@
+# =====================
+# Python virtual environments
+# =====================
+.venv/
+env/
+venv/
+
+# =====================
+# Data files (should NOT be pushed to GitHub)
+# =====================
+data/
+*.csv
+
+# =====================
+# Streamlit & cache
+# =====================
+.streamlit/
+__pycache__/
+*.pyc
+
+# =====================
+# Jupyter Notebook checkpoints
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# OS-generated files
+# =====================
+.DS_Store
+Thumbs.db
 # Python virtual environment
 .venv/
 
