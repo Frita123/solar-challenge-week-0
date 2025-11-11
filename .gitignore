@@ -28,3 +28,21 @@ __pycache__/
 # =====================
 .DS_Store
 Thumbs.db
+# Python virtual environment
+.venv/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+# Ignore Python virtual environment
+# Ignore virtual environment
+.venv/
+
+# Ignore data files
+data/
+*.csv
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
